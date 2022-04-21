@@ -1,6 +1,9 @@
 Moralis.initialize("oGiC6BZtTp1owOClhucLYQgqDk8TNwOCS1ziqfTX"); // Application id from moralis.io
 Moralis.serverURL = "https://uaixyddhjmdq.usemoralis.com:2053/server"; //Server url from moralis.io
 
+
+//"homepage": "https://github.com/Sulaman1/DEX#readme"
+
 let currentTrade = {};
 let currentSelectSide;
 let tokens;
